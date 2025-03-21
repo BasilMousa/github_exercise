@@ -21,7 +21,7 @@ example how to compute balance
              function will receive the above data structure, ask the user to enter new expense, (amount,description)
              add the new expense to the data structure and return the new data structure  
           showBalance(budgetData)
-             will receive the DS, do over it one by one, sum the total balance and print it, doesnt return anything
+             will receive the DS, go over it one by one, sum the total balance and print it, doesnt return anything
           showTransactionHistory(budgetData)                             
              will receive the DS, prinintg each transaction one by one, doesnt return anything
 
